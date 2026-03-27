@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Transient RSS output (large/growing, not needed in repo)
+rss_output/raw_xml/
+rss_output/parsed/
+rss_output/archive/
+rss_launchd.log
+rss_launchd.err
+
+# Keep these tracked:
+# rss_output/all_recent_items.json
+# rss_output/manifest.json
