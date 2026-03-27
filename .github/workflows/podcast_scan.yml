@@ -37,3 +37,9 @@ jobs:
             git commit -m "chore: update podcast feed scan $(date -u '+%Y-%m-%d')"
             git push
           fi
+
+      - name: Push new episodes to Notion
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_PAGE_ID: ${{ secrets.NOTION_PAGE_ID }}
+        run: python push_to_notion.py
