@@ -2,7 +2,7 @@ name: Weekly Podcast RSS Scan
 
 on:
   schedule:
-    - cron: "0 9 * * 6"  # Every Sunday at 07:00 UTC
+    - cron: "0 9 * * 6"  # Every Saturday at 09:00 UTC
   workflow_dispatch:       # Allow manual runs from the Actions tab
 
 jobs:
