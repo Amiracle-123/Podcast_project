@@ -21,7 +21,7 @@ DEFAULT_FEEDS = [
     "https://feeds.transistor.fm/acquired",
 ]
 
-USER_AGENT = "RSSWeeklyScanner/1.0 (+personal use)"
+USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 TIMEOUT_SECONDS = 20
 
 
