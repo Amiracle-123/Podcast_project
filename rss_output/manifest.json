@@ -2,109 +2,101 @@
   {
     "feed_url": "https://feeds.transistor.fm/acquired",
     "podcast_title": "Acquired",
-    "raw_xml_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/raw_xml/feeds.transistor.fm_acquired__2026-03-26T15-40-10Z.xml",
-    "recent_json_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/parsed/feeds.transistor.fm_acquired__last_7_days.json",
+    "raw_xml_path": "/home/runner/work/Podcast_project/Podcast_project/rss_output/raw_xml/feeds.transistor.fm_acquired__2026-03-27T20-07-36Z.xml",
+    "recent_json_path": "/home/runner/work/Podcast_project/Podcast_project/rss_output/parsed/feeds.transistor.fm_acquired__last_7_days.json",
     "total_items_in_feed": 213,
     "recent_items_kept": 0,
-    "fetched_at_utc": "2026-03-26T15:40:10.762087+00:00"
+    "fetched_at_utc": "2026-03-27T20:07:36.669509+00:00"
   },
   {
     "feed_url": "https://feeds.simplecast.com/3hnxp7yk",
     "podcast_title": "Founders",
-    "raw_xml_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/raw_xml/feeds.simplecast.com_3hnxp7yk__2026-03-26T15-40-13Z.xml",
-    "recent_json_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/parsed/feeds.simplecast.com_3hnxp7yk__last_7_days.json",
+    "raw_xml_path": "/home/runner/work/Podcast_project/Podcast_project/rss_output/raw_xml/feeds.simplecast.com_3hnxp7yk__2026-03-27T20-07-38Z.xml",
+    "recent_json_path": "/home/runner/work/Podcast_project/Podcast_project/rss_output/parsed/feeds.simplecast.com_3hnxp7yk__last_7_days.json",
     "total_items_in_feed": 440,
     "recent_items_kept": 1,
-    "fetched_at_utc": "2026-03-26T15:40:13.249713+00:00"
+    "fetched_at_utc": "2026-03-27T20:07:38.159013+00:00"
   },
   {
     "feed_url": "https://api.substack.com/feed/podcast/10845.rss",
-    "podcast_title": "Lenny's Podcast: Product | Career | Growth",
-    "raw_xml_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/raw_xml/api.substack.com_feed_podcast_10845.rss__2026-03-26T15-40-14Z.xml",
-    "recent_json_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/parsed/api.substack.com_feed_podcast_10845.rss__last_7_days.json",
-    "total_items_in_feed": 334,
-    "recent_items_kept": 1,
-    "fetched_at_utc": "2026-03-26T15:40:14.702147+00:00"
+    "error": "403 Client Error: Forbidden for url: https://api.substack.com/feed/podcast/10845.rss",
+    "fetched_at_utc": "2026-03-27T20:07:39.304522+00:00"
   },
   {
     "feed_url": "https://feeds.megaphone.fm/HS2300184645",
     "podcast_title": "My First Million",
-    "raw_xml_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/raw_xml/feeds.megaphone.fm_HS2300184645__2026-03-26T15-40-16Z.xml",
-    "recent_json_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/parsed/feeds.megaphone.fm_HS2300184645__last_7_days.json",
-    "total_items_in_feed": 849,
-    "recent_items_kept": 1,
-    "fetched_at_utc": "2026-03-26T15:40:16.443150+00:00"
+    "raw_xml_path": "/home/runner/work/Podcast_project/Podcast_project/rss_output/raw_xml/feeds.megaphone.fm_HS2300184645__2026-03-27T20-07-40Z.xml",
+    "recent_json_path": "/home/runner/work/Podcast_project/Podcast_project/rss_output/parsed/feeds.megaphone.fm_HS2300184645__last_7_days.json",
+    "total_items_in_feed": 850,
+    "recent_items_kept": 2,
+    "fetched_at_utc": "2026-03-27T20:07:40.408551+00:00"
   },
   {
     "feed_url": "https://feeds.megaphone.fm/investlikethebest",
     "podcast_title": "Invest Like the Best with Patrick O'Shaughnessy",
-    "raw_xml_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/raw_xml/feeds.megaphone.fm_investlikethebest__2026-03-26T15-40-19Z.xml",
-    "recent_json_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/parsed/feeds.megaphone.fm_investlikethebest__last_7_days.json",
+    "raw_xml_path": "/home/runner/work/Podcast_project/Podcast_project/rss_output/raw_xml/feeds.megaphone.fm_investlikethebest__2026-03-27T20-07-41Z.xml",
+    "recent_json_path": "/home/runner/work/Podcast_project/Podcast_project/rss_output/parsed/feeds.megaphone.fm_investlikethebest__last_7_days.json",
     "total_items_in_feed": 570,
     "recent_items_kept": 1,
-    "fetched_at_utc": "2026-03-26T15:40:19.234620+00:00"
+    "fetched_at_utc": "2026-03-27T20:07:41.604995+00:00"
   },
   {
     "feed_url": "https://thetwentyminutevc.libsyn.com/rss",
     "podcast_title": "The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch",
-    "raw_xml_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/raw_xml/thetwentyminutevc.libsyn.com_rss__2026-03-26T15-40-26Z.xml",
-    "recent_json_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/parsed/thetwentyminutevc.libsyn.com_rss__last_7_days.json",
+    "raw_xml_path": "/home/runner/work/Podcast_project/Podcast_project/rss_output/raw_xml/thetwentyminutevc.libsyn.com_rss__2026-03-27T20-07-43Z.xml",
+    "recent_json_path": "/home/runner/work/Podcast_project/Podcast_project/rss_output/parsed/thetwentyminutevc.libsyn.com_rss__last_7_days.json",
     "total_items_in_feed": 1435,
     "recent_items_kept": 3,
-    "fetched_at_utc": "2026-03-26T15:40:26.107839+00:00"
+    "fetched_at_utc": "2026-03-27T20:07:43.447802+00:00"
   },
   {
     "feed_url": "https://feeds.megaphone.fm/FSMI7575968096",
     "podcast_title": "The Knowledge Project",
-    "raw_xml_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/raw_xml/feeds.megaphone.fm_FSMI7575968096__2026-03-26T15-40-27Z.xml",
-    "recent_json_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/parsed/feeds.megaphone.fm_FSMI7575968096__last_7_days.json",
+    "raw_xml_path": "/home/runner/work/Podcast_project/Podcast_project/rss_output/raw_xml/feeds.megaphone.fm_FSMI7575968096__2026-03-27T20-07-44Z.xml",
+    "recent_json_path": "/home/runner/work/Podcast_project/Podcast_project/rss_output/parsed/feeds.megaphone.fm_FSMI7575968096__last_7_days.json",
     "total_items_in_feed": 273,
     "recent_items_kept": 1,
-    "fetched_at_utc": "2026-03-26T15:40:27.394408+00:00"
+    "fetched_at_utc": "2026-03-27T20:07:44.478588+00:00"
   },
   {
     "feed_url": "https://anchor.fm/s/8c1524bc/podcast/rss",
     "podcast_title": "Y Combinator Startup Podcast",
-    "raw_xml_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/raw_xml/anchor.fm_s_8c1524bc_podcast_rss__2026-03-26T15-40-28Z.xml",
-    "recent_json_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/parsed/anchor.fm_s_8c1524bc_podcast_rss__last_7_days.json",
-    "total_items_in_feed": 301,
+    "raw_xml_path": "/home/runner/work/Podcast_project/Podcast_project/rss_output/raw_xml/anchor.fm_s_8c1524bc_podcast_rss__2026-03-27T20-07-45Z.xml",
+    "recent_json_path": "/home/runner/work/Podcast_project/Podcast_project/rss_output/parsed/anchor.fm_s_8c1524bc_podcast_rss__last_7_days.json",
+    "total_items_in_feed": 302,
     "recent_items_kept": 1,
-    "fetched_at_utc": "2026-03-26T15:40:28.641574+00:00"
+    "fetched_at_utc": "2026-03-27T20:07:45.569377+00:00"
   },
   {
     "feed_url": "https://api.substack.com/feed/podcast/69345.rss",
-    "podcast_title": "Dwarkesh Podcast",
-    "raw_xml_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/raw_xml/api.substack.com_feed_podcast_69345.rss__2026-03-26T15-40-29Z.xml",
-    "recent_json_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/parsed/api.substack.com_feed_podcast_69345.rss__last_7_days.json",
-    "total_items_in_feed": 121,
-    "recent_items_kept": 1,
-    "fetched_at_utc": "2026-03-26T15:40:29.842948+00:00"
+    "error": "403 Client Error: Forbidden for url: https://api.substack.com/feed/podcast/69345.rss",
+    "fetched_at_utc": "2026-03-27T20:07:46.632679+00:00"
   },
   {
     "feed_url": "https://rss.art19.com/how-i-built-this",
     "podcast_title": "How I Built This with Guy Raz",
-    "raw_xml_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/raw_xml/rss.art19.com_how-i-built-this__2026-03-26T15-40-31Z.xml",
-    "recent_json_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/parsed/rss.art19.com_how-i-built-this__last_7_days.json",
+    "raw_xml_path": "/home/runner/work/Podcast_project/Podcast_project/rss_output/raw_xml/rss.art19.com_how-i-built-this__2026-03-27T20-07-48Z.xml",
+    "recent_json_path": "/home/runner/work/Podcast_project/Podcast_project/rss_output/parsed/rss.art19.com_how-i-built-this__last_7_days.json",
     "total_items_in_feed": 819,
     "recent_items_kept": 2,
-    "fetched_at_utc": "2026-03-26T15:40:31.560507+00:00"
+    "fetched_at_utc": "2026-03-27T20:07:48.559410+00:00"
   },
   {
     "feed_url": "https://lexfridman.com/feed/podcast/",
     "podcast_title": "Lex Fridman Podcast",
-    "raw_xml_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/raw_xml/lexfridman.com_feed_podcast__2026-03-26T15-40-33Z.xml",
-    "recent_json_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/parsed/lexfridman.com_feed_podcast__last_7_days.json",
+    "raw_xml_path": "/home/runner/work/Podcast_project/Podcast_project/rss_output/raw_xml/lexfridman.com_feed_podcast__2026-03-27T20-07-50Z.xml",
+    "recent_json_path": "/home/runner/work/Podcast_project/Podcast_project/rss_output/parsed/lexfridman.com_feed_podcast__last_7_days.json",
     "total_items_in_feed": 495,
     "recent_items_kept": 1,
-    "fetched_at_utc": "2026-03-26T15:40:33.914446+00:00"
+    "fetched_at_utc": "2026-03-27T20:07:50.407626+00:00"
   },
   {
     "feed_url": "https://feeds.megaphone.fm/GLT1412515089",
     "podcast_title": "The Joe Rogan Experience",
-    "raw_xml_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/raw_xml/feeds.megaphone.fm_GLT1412515089__2026-03-26T15-40-35Z.xml",
-    "recent_json_path": "/Users/amirshamsubarov/Projects/Podcast_project/rss_output/parsed/feeds.megaphone.fm_GLT1412515089__last_7_days.json",
-    "total_items_in_feed": 2662,
+    "raw_xml_path": "/home/runner/work/Podcast_project/Podcast_project/rss_output/raw_xml/feeds.megaphone.fm_GLT1412515089__2026-03-27T20-07-51Z.xml",
+    "recent_json_path": "/home/runner/work/Podcast_project/Podcast_project/rss_output/parsed/feeds.megaphone.fm_GLT1412515089__last_7_days.json",
+    "total_items_in_feed": 2664,
     "recent_items_kept": 5,
-    "fetched_at_utc": "2026-03-26T15:40:35.530674+00:00"
+    "fetched_at_utc": "2026-03-27T20:07:51.564149+00:00"
   }
 ]
